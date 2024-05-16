@@ -1,0 +1,15 @@
+---
+title: "test document"
+author: "Katie Cheslick"
+format: html
+editor: visual
+---
+
+```{r}
+#| echo: false
+library(tidyverse)
+
+
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
