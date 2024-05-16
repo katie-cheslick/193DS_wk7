@@ -7,7 +7,7 @@ editor: visual
 
 ```{r}
 #| echo: false
-library(tidyverse)
+library(tidyverse) # reading in a package
 
 
 ```
